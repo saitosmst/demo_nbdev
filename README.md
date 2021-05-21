@@ -13,12 +13,17 @@ This file will become your README and also the index of your documentation.
 Fill me in please! Don't forget code examples:
 
 ```python
-1+1
+say_hello('Shun')
 ```
 
 
+    ---------------------------------------------------------------------------
 
+    NameError                                 Traceback (most recent call last)
 
-    2
+    <ipython-input-16-6b817ef5b182> in <module>
+    ----> 1 say_hello('Shun')
+    
 
+    NameError: name 'say_hello' is not defined
 
